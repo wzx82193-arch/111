@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+Runtime.zip
+dist/
+smoke*.png
